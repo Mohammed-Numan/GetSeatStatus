@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "92528031459",
+    "firebase_url": "https://getseatstatus-e4512.firebaseio.com",
+    "project_id": "getseatstatus-e4512",
+    "storage_bucket": "getseatstatus-e4512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92528031459:android:c3cd41f907dbd7de",
+        "android_client_info": {
+          "package_name": "com.example.delaroy.recyclerswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92528031459-ibp6utstt5ujag7fonff3tv3u7d09eti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delaroy.recyclerswipe",
+            "certificate_hash": "61e64bc1cfd708676f3e7a2c46bf6eafb6ec50fc"
+          }
+        },
+        {
+          "client_id": "92528031459-djva1tf3uk24cr1pqt0t39f1tj5s8llg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99kp2gamLkqZ8WjfqoI58hYOnYpMOizQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92528031459-djva1tf3uk24cr1pqt0t39f1tj5s8llg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
